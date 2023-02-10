@@ -1,8 +1,8 @@
 # burclar_rehberi
 
-A new Flutter project.
+A new basic Flutter project.
 
-## Getting Started
+## images
 
 This project is a starting point for a Flutter application.
 
